@@ -3,6 +3,21 @@
 
 /* @import url('file:///home/ma/.cache/wal/colors.css'); /* uncomment if using pywal */
 
+#reddit:hover {color: #ff4500;}
+
+#youtube:hover {color: #ff0000;}
+
+#twitter:hover {color: #1da1f2;}
+
+#twitch:hover {color: #9146ff;}
+
+#github:hover {color: #6f42c1;}
+
+#class:hover {color: #28a745;}
+
+#news:hover {color: #005cc5;}
+
+#gmail:hover {color: #d73a49;}
 :root {
     --roboto: 'Roboto', sans-serif;;
     --noto-sans: 'Noto Sans', sans-serif;;
@@ -15,6 +30,7 @@
     --second: #999999;
     --header: #3a7e99;
     --source: #bfbfbf;
+    
 }
 
 [data-theme="dark"] {
